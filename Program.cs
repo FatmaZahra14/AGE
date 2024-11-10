@@ -7,7 +7,7 @@ namespace SimpleProgram
         static void Main(string[] args)
         {
             // Greet the user and ask for their name
-            Console.WriteLine("Hello! What's your name?");
+            Console.WriteLine("Hello! What's your name? ror");
             string name = Console.ReadLine();
 
             // Ask for their age
